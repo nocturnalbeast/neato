@@ -1,0 +1,3485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tp",
+				"typeremove\tfunction"
+			],
+			[
+				"pa",
+				"path\tmodule"
+			],
+			[
+				"GetLogi",
+				"GetLogicalDriveStrings\tfunction"
+			],
+			[
+				"event",
+				"eventlogtemp"
+			],
+			[
+				"Event",
+				"EventLogBatFilePopulate\tfunction"
+			],
+			[
+				"eve",
+				"eventlogbat"
+			],
+			[
+				"t",
+				"txt"
+			],
+			[
+				"E",
+				"EventLogBatFileExecute\tfunction"
+			],
+			[
+				"e",
+				"executable\tinstance"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"c",
+				"check_output\tfunction"
+			],
+			[
+				"s",
+				"stdout"
+			],
+			[
+				"S",
+				"STDOUT\tstatement"
+			],
+			[
+				"run",
+				"run\tfunction"
+			],
+			[
+				"f",
+				"__file__\tinstance"
+			],
+			[
+				"dir",
+				"directory\tforstmt"
+			],
+			[
+				"g",
+				"_getdiskusage\tfunction"
+			],
+			[
+				"type",
+				"typeremove\tfunction"
+			],
+			[
+				"fi",
+				"filetypes\tstatement"
+			],
+			[
+				"temp",
+				"tempRemove"
+			],
+			[
+				"is",
+				"isfile"
+			],
+			[
+				"glo",
+				"globbed\tforstmt"
+			],
+			[
+				"li",
+				"listdir\tfunction"
+			],
+			[
+				"an",
+				"anchor"
+			],
+			[
+				"neato",
+				"neatoTypeCleaner\tmodule"
+			],
+			[
+				"nea",
+				"neatoTypeCleaner\tmodule"
+			],
+			[
+				"ne",
+				"neatoChromeCleaner\tmodule"
+			],
+			[
+				"qui",
+				"quick"
+			],
+			[
+				"re",
+				"recursive"
+			],
+			[
+				"print",
+				"print\tfunction"
+			],
+			[
+				"glob",
+				"globexpander"
+			],
+			[
+				"joi",
+				"join\tfunction"
+			],
+			[
+				"Lo",
+				"localappdata"
+			],
+			[
+				"scroll",
+				"MouseScrollUpAction"
+			],
+			[
+				"tra",
+				"transparentwhite"
+			],
+			[
+				"cu",
+				"customwhite"
+			],
+			[
+				"Line",
+				"LineColor"
+			],
+			[
+				"meterram",
+				"MeterRAMUsageText"
+			],
+			[
+				"measure",
+				"MeasureName"
+			],
+			[
+				"Le",
+				"Left"
+			],
+			[
+				"MeterCdrive",
+				"MeterCDriveUsageText"
+			],
+			[
+				"MeasureFD",
+				"MeasureFDriveAccess"
+			],
+			[
+				"MeasureED",
+				"MeasureEDriveAccess"
+			],
+			[
+				"MeasureD",
+				"MeasureDDriveAccess"
+			],
+			[
+				"MeasureC",
+				"MeasureCDriveAccess"
+			],
+			[
+				"speedfan",
+				"SpeedFanScale"
+			],
+			[
+				"MeterCPU",
+				"MeterCPU1UsageText"
+			],
+			[
+				"string",
+				"String"
+			],
+			[
+				"measurecp",
+				"MeasureCPU1Temp"
+			],
+			[
+				"hidden",
+				"Hidden"
+			],
+			[
+				"hidde",
+				"Hidden"
+			],
+			[
+				"imag",
+				"ImageAlpha"
+			],
+			[
+				"leftmo",
+				"LeftMouseUpAction"
+			],
+			[
+				"button",
+				"ButtonImage"
+			],
+			[
+				"Bu",
+				"BUTTON"
+			],
+			[
+				"MeterButtonS",
+				"MeterButtonShutDown"
+			],
+			[
+				"Meter",
+				"MeterButtonRestart"
+			],
+			[
+				"Hi",
+				"Hidden"
+			],
+			[
+				"refr",
+				"Refresh\t!Refresh"
+			],
+			[
+				"St",
+				"String\t(Aeo+.ini)"
+			],
+			[
+				"Show",
+				"Show"
+			],
+			[
+				"text",
+				"Text"
+			],
+			[
+				"strign",
+				"STRING"
+			],
+			[
+				"Text",
+				"Text"
+			],
+			[
+				"image",
+				"Image"
+			],
+			[
+				"sub",
+				"Substitute"
+			],
+			[
+				"Leftmous",
+				"LeftMouseUpAction"
+			],
+			[
+				"Ref",
+				"RefreshApp\t!RefreshApp"
+			],
+			[
+				"Re",
+				"Refresh\t!Refresh"
+			],
+			[
+				"Middlem",
+				"MiddleMouseUpAction"
+			],
+			[
+				"hi",
+				"Hidden"
+			],
+			[
+				"user",
+				"userdetz"
+			],
+			[
+				"rain",
+				"Rainmeter"
+			],
+			[
+				"mouse",
+				"MouseLeaveAction"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"tooltip",
+				"ToolTipText"
+			],
+			[
+				"IM",
+				"Image"
+			],
+			[
+				"Lin",
+				"LineWidth"
+			],
+			[
+				"line",
+				"Line"
+			],
+			[
+				"Im",
+				"Image"
+			],
+			[
+				"d",
+				"DriveText"
+			],
+			[
+				"LE",
+				"Left\t(Aeo+.ini)"
+			],
+			[
+				"I",
+				"IMAGE"
+			],
+			[
+				"rightmo",
+				"RightMouseUpAction"
+			],
+			[
+				"Ima",
+				"IMAGE\t(Aeo+.ini)"
+			],
+			[
+				"left",
+				"LeftMouseUpAction"
+			],
+			[
+				"String",
+				"StringStyle\t(music.ini)"
+			],
+			[
+				"te",
+				"Text"
+			],
+			[
+				"Nex",
+				"NEXA\t(Aeo+.ini)"
+			],
+			[
+				"st",
+				"StringAlign"
+			],
+			[
+				"align",
+				"StringAlign"
+			],
+			[
+				"Upda",
+				"UpdateDivider"
+			],
+			[
+				"An",
+				"AntiAlias"
+			],
+			[
+				"ima",
+				"ImageAlpha"
+			],
+			[
+				"Met",
+				"Meter\t(Aeo+.ini)"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"IcoBin",
+				"IcoBinFull"
+			],
+			[
+				"set",
+				"SetTransparency\t!SetTransparency"
+			],
+			[
+				"Gr",
+				"Group"
+			],
+			[
+				"i",
+				"Image"
+			],
+			[
+				"al",
+				"ImageAlpha"
+			],
+			[
+				"strin",
+				"StringStyle"
+			],
+			[
+				"SKin",
+				"SKINSPATH#\t#SKINSPATH#"
+			],
+			[
+				"font",
+				"FontSize"
+			],
+			[
+				"u",
+				"UPPER"
+			],
+			[
+				"MeterArc",
+				"MeterArcCDriveFree"
+			],
+			[
+				"disk",
+				"FreeDiskSpace"
+			],
+			[
+				"proce",
+				"Processor"
+			],
+			[
+				"pro",
+				"Processor"
+			],
+			[
+				"measurec",
+				"MeasureCPUUsage"
+			],
+			[
+				"mesurec",
+				"MeasureCPUUsage"
+			],
+			[
+				"ro",
+				"Roundline"
+			],
+			[
+				"Font",
+				"FontFace"
+			],
+			[
+				"meas",
+				"MeasureName"
+			],
+			[
+				"N",
+				"Normal"
+			],
+			[
+				"stri",
+				"StringStyle"
+			],
+			[
+				"lin",
+				"LineWidth"
+			],
+			[
+				"B",
+				"Bold"
+			],
+			[
+				"Fon",
+				"FontFace"
+			],
+			[
+				"MeasureNet",
+				"MeasureNetOut"
+			],
+			[
+				"ski",
+				"SKINSPATH#\t#SKINSPATH#"
+			],
+			[
+				"ol",
+				"Bold"
+			],
+			[
+				"ra",
+				"Rainmeter"
+			],
+			[
+				"on",
+				"OnFocusAction"
+			],
+			[
+				"Mea",
+				"MeasureName"
+			],
+			[
+				"b",
+				"Bold"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# Class: ci_windows_cleanup\n#   Parameter: user - defaults to Administrator, used to define the directory we want to delete\n#\nclass ci_windows_cleanup ($user = 'Administrator') {\n\n  # in my environment around noon is kind of low load so let's schedule it here\n  schedule { 'ci_windows_cleanup':\n    range  => \"10 - 14\",\n    period => daily,\n    repeat => 1,\n  }\n\n  if $::kernel == 'windows' {\n    # Define the path to the temp directory\n    if $::kernelmajorversion >= '6.0' {\n      $temp_path = \"C:\\\\Users\\\\${user}\\\\AppData\\\\Local\\\\Temp\"\n    } else {\n      $temp_path = \"C:\\\\Documents and Settings\\\\${user}\\\\Local Settings\\\\Temp\"\n    }\n    # Purge the %TEMP% directory completely. Some files might be locked as they are used so we accept more exit codes.\n    exec { 'windows_cleanup_purge_temp':\n      command   => \"cmd /c rmdir /s/q ${temp_path}\",\n      path      => $::path,\n      cwd       => \"${temp_path}\\\\..\\\\\", # change into TEMPs parent folder to run the cleanup command\n      logoutput => false, # we delete quiet so nothing interesting here in the first place\n      timeout   => 900, # 15 minutes are enough, if not we come back here tomorrow anyway\n      returns   => [0, 5, 32], # 0 success, 5 access denied, 32 sharing violation -> all fine as everything not in use got deleted\n      notify    => Exec['windows_cleanup_recreate_temp'], # trigger the recreation of the directory\n      schedule  => 'ci_windows_cleanup'\n    }\n\n    # As we purged the %TEMP% directory we have to recreate it to not break\n    exec { 'windows_cleanup_recreate_temp':\n      command     => \"cmd /c mkdir ${temp_path}\",\n      path        => $::path,\n      returns     => [0, 1], # if the dir already exists we are fine too\n      refreshonly => true,\n    }\n\n    # Empty the recycle bin on %systemdrive% as well\n    exec { 'windows_cleanup_purge_recycle_bin':\n      command   => \"cmd /c rmdir /s/q %systemdrive%\\\\\\$Recycle.bin\",\n      path      => $::path,\n      logoutput => false, # we delete quiet so nothing interesting here in the first place\n      timeout   => 900, # 15 minutes are enough, if not we come back here tomorrow anyway\n      returns   => [0, 5, 32], # 0 success, 5 access denied, 32 sharing violation -> all fine as everything not in use got deleted\n      schedule  => 'ci_windows_cleanup'\n    }\n\n  } else {\n    debug 'This class is usable for windows only!'\n  }\n}\n",
+			"file": "/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.715/ci_windows_cleanup-master/manifests/init.pp",
+			"file_size": 2371,
+			"file_write_time": 130707783000000000,
+			"settings":
+			{
+				"buffer_size": 2371,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n    @REM FROM MYSELF\n\n    taskkill /F /IM firefox.exe\n    taskkill /F /IM iexplore.exe\n    taskkill /F /IM chrome.exe\n\n    @REM FROM STACKOVERFLOW https://stackoverflow.com/questions/12621969/clear-cache-of-browser-by-command-line\n\n    erase \"%TEMP%\\*.*\" /f /s /q\n    for /D %%i in (\"%TEMP%\\*\") do RD /S /Q \"%%i\"\n\n    erase \"%TMP%\\*.*\" /f /s /q\n    for /D %%i in (\"%TMP%\\*\") do RD /S /Q \"%%i\"\n\n    erase \"%ALLUSERSPROFILE%\\TEMP\\*.*\" /f /s /q\n    for /D %%i in (\"%ALLUSERSPROFILE%\\TEMP\\*\") do RD /S /Q \"%%i\"\n\n    erase \"%SystemRoot%\\TEMP\\*.*\" /f /s /q\n    for /D %%i in (\"%SystemRoot%\\TEMP\\*\") do RD /S /Q \"%%i\"\n\n    @rem Clear IE cache - (Deletes Temporary Internet Files Only)\n    RunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 8\n    erase \"%LOCALAPPDATA%\\Microsoft\\Windows\\Tempor~1\\*.*\" /f /s /q\n    for /D %%i in (\"%LOCALAPPDATA%\\Microsoft\\Windows\\Tempor~1\\*\") do RD /S /Q \"%%i\"\n\n    @rem Clear Google Chrome cache\n    erase \"%LOCALAPPDATA%\\Google\\Chrome\\User Data\\*.*\" /f /s /q\n    for /D %%i in (\"%LOCALAPPDATA%\\Google\\Chrome\\User Data\\*\") do RD /S /Q \"%%i\"\n\n    @rem Clear Firefox cache\n    erase \"%LOCALAPPDATA%\\Mozilla\\Firefox\\Profiles\\*.*\" /f /s /q\n    for /D %%i in (\"%LOCALAPPDATA%\\Mozilla\\Firefox\\Profiles\\*\") do RD /S /Q \"%%i\"\n\n    @FROM STACKOVERFLOW http://www.catonmat.net/blog/clear-privacy-ie-firefox-opera-chrome-safari/\n\n    set ChromeDir=C:\\Users\\%USERNAME%\\AppData\\Local\\Google\\Chrome\\User Data\n\n    del /q /s /f \"%ChromeDir%\"\n    rd /s /q \"%ChromeDir%\"\n\n    set DataDir=C:\\Users\\%USERNAME%\\AppData\\Local\\Mozilla\\Firefox\\Profiles\n\n    del /q /s /f \"%DataDir%\"\n    rd /s /q \"%DataDir%\"\n\n    for /d %%x in (C:\\Users\\%USERNAME%\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\*) do del /q /s /f %%x\\*sqlite\n\n    set DataDir=C:\\Users\\%USERNAME%\\AppData\\Local\\Opera\\Opera\n    set DataDir2=C:\\Users\\%USERNAME%\\AppData\\Roaming\\Opera\\Opera\n\n    del /q /s /f \"%DataDir%\"\n    rd /s /q \"%DataDir%\"\n\n    del /q /s /f \"%DataDir2%\"\n    rd /s /q \"%DataDir2%\"\n\n    set DataDir=C:\\Users\\%USERNAME%\\AppData\\Local\\Applec~1\\Safari\n    set DataDir2=C:\\Users\\%USERNAME%\\AppData\\Roaming\\Applec~1\\Safari\n\n    del /q /s /f \"%DataDir%\\History\"\n    rd /s /q \"%DataDir%\\History\"\n\n    del /q /s /f \"%DataDir%\\Cache.db\"\n    del /q /s /f \"%DataDir%\\WebpageIcons.db\"\n\n    del /q /s /f \"%DataDir2%\"\n    rd /s /q \"%DataDir2%\"\n\n    set FlashCookies=C:\\Users\\%USERNAME%\\AppData\\Roaming\\Macromedia\\Flashp~1\n\n    del /q /s /f \"%FlashCookies%\"\n    rd /s /q \"%FlashCookies%\"\n\n\n    pause\n",
+			"settings":
+			{
+				"buffer_size": 2464,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "walk.files is globbing with multiple folders and files.\nglob is globbing with single folder(finding it in most cases with glob.) and multiple files.\nfile is a single file.\nwalk.all is probably same as walk.files with full deletion. (even self, i guess.)\n",
+			"settings":
+			{
+				"buffer_size": 254,
+				"line_ending": "Windows",
+				"name": "walk.files is globbing with multiple folders and f"
+			}
+		},
+		{
+			"contents": "import os\nimport shutil\nfrom glob import glob as glob\n\n\ndef rmoove(path):\n\n    for path in os.listdir(path):\n        try:\n            if os.path.isfile(path):\n                os.remove(path)\n            elif os.path.isdir(path):\n                shutil.rmtree(path, ignore_errors=True)\n                print(path, \" Deleted!\")\n        except:\n            print(\"what!!\")\n\n\ndef check(path):\n\n    if os.path.exists(path):\n        rmoove(path)\n\nwindir = os.environ['WinDir']\nlocalappdata = os.environ['LocalAppData']\nf = open('recursewindir.txt', 'r')\nlines = f.readlines()\nf.close()\nfor line in lines:\n    try:\n        path = os.path.join(windir, line)\n        print(path)\n        matchlines = glob.glob(path, recursive=True)\n        for matchline in matchlines:\n            try:\n                print(matchline)\n            except:\n                print(\"\")\n    except:\n        print(\"\")\n",
+			"file": "/C/Users/Betrant Titus/PyCharmProjects/Neato!/removewglob.py",
+			"file_size": 902,
+			"file_write_time": 131148787740000000,
+			"settings":
+			{
+				"buffer_size": 886,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "@echo off\ncolor 70\ntitle Temp File Cleaner\ncls\necho --------------------- > Cleaner.log\necho Temp File Cleaner Log >> Cleaner.log\necho --------------------- >> Cleaner.log\necho. >> Cleaner.log\necho. >> Cleaner.log\necho Temp File Cleaner started successfully at %time% on %date% >> Cleaner.log\necho. >> Cleaner.log\necho %username% has started the application >> Cleaner.log\necho. >> Cleaner.log\necho The temp path is %temp% >> Cleaner.log\necho. >> Cleaner.log\necho The working directory is %cd% >> Cleaner.log\necho. >> Cleaner.log\necho The system folder is located in %systemroot% >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\necho. >> Cleaner.log\n:b\ncls\necho Temp File Cleaner. - IN DEVELOPMENT!\necho ------------------------------------\necho.\necho Please select an option from the list below.\necho --------------------------------------------\necho.\necho 0. Flush DNS\necho 1. Clean local temp directory\necho 2. Clean Windows temp directory\necho 3. Clean Program temp directory\necho 4. Clear internet history\necho 5. Manually clear a folder\necho 6. Disable internet connection\necho 7. Enable internet connection\necho 8. View current connections\necho 9. Disk cleanup\necho 10. Disk defrag\necho 11. Kill task\necho 13. Task manager\necho 14. Exit\necho.\nset /p OPTION=\ncls\nif \"%OPTION%\"==\"0\" (\necho Flushing DNS...\nipconfig /flushdns\necho. >> Cleaner.log\necho DNS successfully flushed >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\necho DNS successfully flushed!\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"1\" (\necho Cleaning local temp directory...\ncd %temp%\ncd ..\nrmdir temp /s /q\nmkdir temp\necho. >> Cleaner.log\necho Local Temp directory was successfully cleared >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\necho Local temp files cleared!\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"2\" (\necho Cleaning Windows temp files...\ncd %systemroot%\nrmdir Temp /s /q\nmkdir temp\necho. >> Cleaner.log\necho Windows Temp files was successfully cleared >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\necho Windows temp files cleared!\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"3\" (\ncd %programfiles%\necho Clearing program temp files...\nrmdir temp /s /q\nmkdir temp\necho. >> Cleaner.log\necho Program Temp files successfully cleared >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\necho Program Files temp directory cleared!\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"4\" (\necho Clearing internet history...\nRunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 8\nRunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 2\nRunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 255\necho. >> Cleaner.log\necho Internet history successfully cleared >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\necho Internet history cleared!\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"5\" (\necho Please input a full folder path to remove.\necho.\necho if the path has any spaces then please include an \" either side.\necho.\necho for example \"C:\\Program Files\\\"\necho.\necho Folder Path:\nset /p FOLDER=\necho. >> Cleaner.log\necho Folder files successfully cleared >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\nrmdir %FOLDER% /s /q\nmkdir %FOLDER%\ncls\necho Folder cleared!\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"6\" (\necho Disabling internet connection.\necho. >> Cleaner.log\necho Internet connection successfully disabled. >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\nipconfig /release\ncls\necho Internet connection disabled!\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"7\" (\necho Enabling internet connection.\necho. >> Cleaner.log\necho Internet connection successfully enabled. >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\nipconfig /renew\ncls\necho Internet connection enabled!\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"8\" (\necho Grabbing connection data.\necho. >> Cleaner.log\necho Current connections successfully viewed >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\nnetstat -t\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"9\" (\necho Starting disk cleanup.\necho. >> Cleaner.log\necho Hard drive successfully cleaned. >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\ncleanmgr\ncls\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"10\" (\necho Starting disk defrag.\necho. >> Cleaner.log\necho Defrag completed successfully. >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\ndfrgui.exe\ncls\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"11\" (\necho Starting task manager.\necho. >> Cleaner.log\necho Unresponsive tasks killed successfully. >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\necho Please input the name of the task you would like to kill.\necho.\necho For example to kill Internet Explorer. Type in iexplorer.exe\necho.\nset /p TASK=\ncls\ntaskkill /f /im %TASK%\ncls\necho Task successfully killed!\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"13\" (\necho Starting task manager.\necho. >> Cleaner.log\necho Task manager started successfully. >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\ntaskmgr\ncls\necho.\necho Press any key to return to the main menu.\ntimeout 60 > nul\ngoto b\n)\nif \"%OPTION%\"==\"14\" (\necho. >> Cleaner.log\necho Temp File Cleaner exited successfully with no errors >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\necho Goodbye %username%!\ntimeout 1 > nul\ncls\nexit\n) else (\necho. >> Cleaner.log\necho An error occurred. An unavailable item has been selected >> Cleaner.log\necho. >> Cleaner.log\necho ----------------------------------------------------------------- >> Cleaner.log\ncls\necho Item not available.\ntimeout 1 > nul\ngoto b\n)",
+			"settings":
+			{
+				"buffer_size": 7153,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "import os\n\n",
+			"settings":
+			{
+				"buffer_size": 11,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "neatoChromeCleaner.py",
+			"settings":
+			{
+				"buffer_size": 8817,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "neatoEngine.py",
+			"settings":
+			{
+				"buffer_size": 1315,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "neatoWinTemp.py",
+			"settings":
+			{
+				"buffer_size": 1008,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "neatoDesktop.py",
+			"settings":
+			{
+				"buffer_size": 5590,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "neatoEventLogCleaner.py",
+			"settings":
+			{
+				"buffer_size": 880,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nToDone\n------\n\n  \n  \n  #\n  #\tNOTE: A restart is required after installation.\n  #\n  \n  \n  This document details the syntax. Left-aligned texts are considered headings.\n  \n  /*\n  \tOffset headings can be created by enclosing text in forward-slashes\n  \tand asterisks\n  */\n  \n  \n  Getting started\n  -\tCreate a task by adding a '-' in front of it\n  ----\tAdd hyphens to change the color\n  \t-----\t5 looks urgent\n  \t----\t4 for important items\n  \t---\t3 for the middle\n  \t--\t2 for the pretty light stuff\n  \t-\t1 for the low-priority or easy stuff\n  -4\tAlternatively, you can add a number after one hyphen\n  \t-3\tThis starts with a `-3`\n  \t-2\t`-2` is the same `--`\n  \t-1\tetc...\n  \t-\tThis is new in 1.0.5\n  \n  \n  Notes\n  -3\tA task can have notes: by adding a ':' then add text\n  -3\tOr by adding the notes under the task\n  \tLike these notes. Notes can have `emphasis` by adding slanted quotes.\n  \n  \n  Sub-tasks\n  -4\tA task can have sub-tasks\n  \t-2\tSub tasks are indented\n  \t-1\tAnd they can have: notes - just like any task\n  \t\t-3\tOr 3rd level sub-tasks\n  \t\t\tWith notes underneath\n  \n  \n  Completed items have a '+'\n  +-2\tThis item is finished because it starts with a'+'\n  \t-3\tThis sub-task is finished bc it's parent is\n  -2\tCompletion applies to sub-tasks\n  -3\tUse the keys `cmd /` shortcut to toggle completion\n  \tIt's just like toggling a comment\n  \n  \n  State of emergency\n  !-3\tEmergency / Disaster: This item is in a state of emergency.\n  \tIt's in the emergency state because of the `leading exclamation mark`.\n  \t----\tThe emergency will apply to any sub-tasks\n  \t--\tLike these two\n  +!--\tA completed emergency task\n  \tThis emergency item was handled.\n  \n  \n  Ignored tasks by adding a leading '.'\n  .--\tThis item is ignored because it starts with a `period`\n  ----\tIgnoring applies to sub-tasks\n  \t.---\tThis sub-task is ignored\n  \t\t---\tThis sub-sub-task is ignored bc its parent is\n  --\tInclude a reason for ignoring it\n  .----\t(Reason for ignoring) Ignored items can have a note in parentheses\n  \tso you can save a note indicating why it's being ignored\n  \n  \n  The symbol list\n  ----\tTo skim current tasks\n  \tuse the `cmd r` shortcut to see an outline (notes are omited)\n  \n  \n  Hard-tabs at 8-width or 5-width\n  ----\tA hard-tab at 8-space width AFTER the '-'s\n  \t`Why?`\n  \t\tThe task titles will always line up.\n  \t`Why hard-tabs?`\n  \t\tThe alignment of the title won't re-adjust when you change\n  \t\tthe number of dashes, add an exclamation mark or plus-sign.\n  \t`Why 8-space width?`\n  \t\t8 is the right number because there is a max of 7 token characters\n  \t\tthat might precede the task-title. 7 because you can have up\n  \t\tto `5` dashes + `1` exclamation mark + `1` plus-sign. Tabs\n  \t\tthat are `8` spaces wide allows there to always be at least one\n  \t\tan extra space between the tokens and the task title:\n  \t+!-----\tA title here\n  \t--\tA title here\n  \t\t^ `sweet alignment`\n  \n  -4\tAlternatively, Hard-tabs at 5-space width\n  \tIf the `-4` pattern is used then 5 characters allows for:\n  \t-\t`+` or `.`  token\n  \t-\t! token\n  \t-\t- token\n  \t-\tA number\n  \t-\tA final space to separate the title\n  \t.!-4\t(for example)\n  \t-3\tThe default Tab Size can be changed via the menu option:\n  \t\t-\tSublime Text\n  \t\t-\tPreferences\n  \t\t-\tPackage Settings\n  \t\t-\tToDone\n  \t\t-\tSettings - User\n  \t\t-2\tAnd adding the following to the file: `\n  \t\t\t{\n  \t\t\t    // The number of spaces a tab is considered equal to\n  \t\t\t    \"tab_size\": 5\n  \t\t\t}`\n  \n  \n  More expressive notes\n  ---\tIf you need more complex notes: ///\n  \tAn `explicit note` is started by the `///` characters.\n  \tAn explicit note can have lines that start with a `-` or `+`.\n  \tExplicit notes end when another `///` is encountered.\n  #\tWhitespace is ignored\n  \t- some simple notes\n  \t- that aren't considered tasks\n  \t- but are a list\n  \t///\n",
+			"settings":
+			{
+				"buffer_size": 3825,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "\nneato TaskList!\n\n\t+- EventLogs\n\t-- Opera\n\t--- Browser listings\n\t--- All browsers\n\t----- PrivaZer scourge\n\t\n\n\n\t",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.274/windows-cleaning-scripts-master/README.md",
+			"settings":
+			{
+				"buffer_size": 544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.274/windows-cleaning-scripts-master/wartung.cmd",
+			"settings":
+			{
+				"buffer_size": 1471,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.274/windows-cleaning-scripts-master/reinigung.cmd",
+			"settings":
+			{
+				"buffer_size": 814,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "neatoElevation.py",
+			"settings":
+			{
+				"buffer_size": 277,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "neatoOperaCleaner.py",
+			"settings":
+			{
+				"buffer_size": 6135,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "neatoTypeCleaner.py",
+			"settings":
+			{
+				"buffer_size": 1113,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "#$# - ULead Photoimpact temporary file\n$vm - Windows 3.x Virtual Manager temporary file\n(d) - pcAnywhere temporary file\n000 - Microsoft SharePoint Server 2007 temporary file\n001 - Microsoft SharePoint Server 2007 temporary file\n002 - Microsoft SharePoint Server 2007 temporary file\n_501 - Apple MAC OS X file\na3--1967290299 - Android Thumbnail index\naso - Adobe Flash cache\nbc - BitTorrent unfinished download file\nbc! - Bittorrent unfinished download file\nbcm - Adobe Bridge cache file\nblf - Microsoft Windows registry data\nblk - Corel WordPerfect Office temporary file\nbmc - Microsoft Terminal Server Client bitmap cache\nbox - Systems Management Server (SMS) temporary holding area\nbsd - Microsoft SharePoint Server 2007 temporary file\nbsi - Microsoft SharePoint Server 2007 temporary file\nbv1 - Corel WordPerfect overflow file\nbv2 - Corel WordPerfect overflow file\nbv3 - Corel WordPerfect overflow file\nbv4 - Corel WordPerfect overflow file\nbv5 - Corel WordPerfect overflow file\nbv6 - Corel WordPerfect overflow file\nbv7 - Corel WordPerfect overflow file\nbv8 - Corel WordPerfect overflow file\nbv9 - Corel WordPerfect overflow file\ncdc - Autodesk AutoCAD DesignCenter preview cache file\ncfa - Adobe multimedia cache\nchk - Corel WordPerfect temporary file\nci - Microsoft SharePoint Server 2007 temporary file\nclp - Microsoft Windows clipboard data\ncnv - Corel WordPerfect temporary file\ncsd - Microsoft SharePoint Server 2007 temporary data\ncsi - Microsoft SharePoint Server 2007 temporary\ndat - Microsoft Internet Explorer cache\ndb - Apple Safari cache database file\nddat - DivX Web Player temporary download file\ndia - Microsoft SharePoint Server 2007 temporary data\ndinfo - DivX Web Player temporary download file\ndir - Microsoft SharePoint Server 2007 temporary file\ndlm - Adobe Download Manager partial download file\ndmp - Memory dump, screen dump, junk files\ndmsk - DivX Web Player temporary download file\ndownload - Apple Safari partial download\ndownload - Chrome partial download\ndownload - Mozilla partial download\ndwl - AutoCAD drawing database locking information\netl - Microsoft Windows trace log\nexd - Control Information Cache file",
+			"settings":
+			{
+				"buffer_size": 2146,
+				"line_ending": "Windows",
+				"name": "#$# - ULead Photoimpact temporary file"
+			}
+		},
+		{
+			"contents": "!ut\tuTorrent incomplete download file\n###\tTemporary file\n$$$\tTemporary file\n$a\tAutoCAD temporary file\n$db\tdBASE IV temporary file\n$ed\tMicrosoft C++ editor temporary file\n)2(\tLHA archiver temporary file\n---\tTemporary file\n0\tGoogle Android cache\n00a\tMicrosoft temporary file\n1\tGoogle Android cache\n4sh\t4shared temporary download file\n4sw\t4DOS swap file\n@@1\tHiDownload temporary file\n@@2\tHiDownload temporary file\n^fsf\tGhostscript file\na$v\tQuarkXpress automatically saved project file\naaa\tSybase SQL Anywhere temporary data\nabc\tABC-View Manager thumbnail cache file\nadadownload\tAdobe Download Assistant partially completed download\nadblock\tAlpha Five temporary file\nadm\tPortfolio admin-level access flag file\naecache\tAdobe After Effects cache\nals\tPro/ENGINEER temporary file\nalt\tMicrosoft Dynamics AX temporary file\nappdownload\tMac OS X App Store incomplete download file\naria2\tuGet aria2 incomplete download\nas$\tMicrosoft Word temporary file\nasab\tRepo temporary output file\nasx\tAlpha Five temporary index file\nbde\tPro/ENGINEER temporary file\nbdi\tPro/ENGINEER temporary file\nbdm\tPro/ENGINEER temporary data\nbmb\tPro/ENGINEER temporary file\nbom\tPro/ENGINEER temporary file\nbphys\tBlender cache file\nbridgecache\tAdobe Bridge cache file\nBridgeCacheT\tAdobe Bridge cache file\nbt0\tBand-in-a-Box temporary file\nbts\tBitTorrent Sync unfinished download\nbu\tPegasus Mail temporary file\nbuf\tBuffer file\nc1s\tPhoto cache file\ncache\tGenerally cache\ncache-2\tVLC media player font cache file\ncache-3\tVLC media player font cache file\ncached_icon\tHERE Maps for Android icon cache\ncachedmsg\tValve Steam cache\ncah\tUlead Photo Explorer thumbnail cache\nccc\tDev-C++ code completion cache\ncdt\tProWORX Nxt temporary long comment data file\nchkn\tIMVU Create Mode temporary data\ncitriodownload\tCitrio incomplete download\nclean\tInstagram for Android cache\ncompo\tDAZ 3D Carrara Pro 7 or 8 temporary file\ncos2\tPinnacle Studio cache file\ncpd\tRoboHelp cache project database\ncrc\tPro/ENGINEER temporary file\ncrdownload\tGoogle Chrome incomplete download\ncsac\tWeb Research collection optimization temporary file\ncsstore\tApple Mac OS X cache file\ncvr\tMicrosoft Office/Outlook crash report\ndap\tDownload Accelerator partial download file\ndb$\tClarion Modula-2 temporary debug info\ndb$\tdBASE temporary file\ndb-shm\tSQLite temporary database\ndb-wal\tSQLite temporary database\ndb3-journal\tSQLite temporary database journal file\ndca\tVisual Basic active designer cache\ndem\tCreator Simulator temporary file\ndir00\tDisk defrag error or dump file\ndov\tTemporary file\ndtapart\tDownThemAll download part\ndtf\tLotus Domino server temporary file\ndw3\tDeathWatch WebCrawler file format\nebktml\teBook Pro encoded temporary file\negt\tEagleGet incomplete download\ners\tPro/ENGINEER temporary file\nescopy\tES File Explorer temporary file\newc2\tEDIUS WaveForm cache\nf2l\tChemtool temporary file\nfb!\tFlashGet incomplete download\nfchc\tFetch cache file\nfdpart\tFresh Download partial downloaded file\nfes\t3D Topicscape file format\nfile\tSpotify cache\nfilepart\tWinSCP temporary transfer data\nfiletablelock\tEclipse lock file\nfseventsd-uuid\tfseventsd data\nfsf\tMicrosoft Office cache file\nfts\tWindows Help index file\nfuse_hidden\tSamba file\nger\tPro/ENGINEER temporary file\nglh\tWise Installer temporary file\ngrbdropfile\tGetRight file\nh64\tAudioless H.264 video file\nhax\tTemporary wave file\nhelp\tUnix help file\nheu\tAdobe Flash Player cache metadata\nhex\tHex dump file format\nhmap\tMicrosoft SharePoint Server 2007 temporary file\nhmap.Dir\tMicrosoft SharePoint Server 2007 temporary file\nhrd\tMSC Patran device-dependent hardcopy\nid3tag\tMP3 Skype Recorder temporary file\nidentcache\tDelphi temporary cache\nidlk\tAdobe InDesign lock file\niff\tSmartWare temporary merge file\nilp\tGurobi Optimizer temporary file\nimgcache\tCompressed picture cache\nims\tAdobe Premiere Pro cache file\nindexArrays\tMac OS X Spotlight file\nindexCompactDirectory\tMac OS X Spotlight file\nindexDirectory\tMac OS X Spotlight file\nindexPositions\tMac OS X Spotlight file\nindexPositionTable\tMac OS X Spotlight file\ninf\tPro/ENGINEER temporary file\niniis\tAsusSetup log file\ninit\tWM Keeper CLASSIC temporary keys\ninprogress\tApple Mac OS X Time Machine temporary file\ninstallstate\t.NET Framework Installation file\nipe_tempfile\tiPhone temporary file\nipl\tPLATO Web Learning Network (PWLN) temporary file\nipl22\tPLATO Learning network temporary file\nird\tMicrosoft Money temporary file\nisl\tInstallShield temporary installer file format\njnk\tJunk temporary file\njournal\tEquitrac cache\nlaccdb\tMicrosoft Access database lock file\nlai\tGNU Libtool temporary file\nlck\tLock file\nlex\tMicrosoft SharePoint Server 2007 temporary file\nlittle\tMozilla Firefox start-up cache\nlocalstorage-journal\tGoogle Chrome rollback journal data\nlock\tLock data\nlockfile\tMac OS X Lion property list XML lock file\nlrd\tMicrosoft Money lock data\nlref\tWPF XAML cache\nlst\tPro/ENGINEER temporary file\nlvl\tSamsung Galaxy video thumbnail cache\nm\tDS photo for Android cache\nm_p\tPro/ENGINEER temporary file\nmbc\tMulberry e-mail client cache file\nmd0\tAdobe Photoshop file browser metadata cache file\nmdccache\tMicrosoft Document Connection cache file\nmeb\tCorel WordPerfect Macro Editor bottom overflow file\nmemb\tPro/ENGINEER temporary file\nmet\tCorel WordPerfect Macro Editor top overflow file\nmex\tCorel WordPerfect Macro Editor expound file\nmmsyscache\tGoogle Android system cache\nmov,\tSwitch file\nmoz\tNetscape temporary cache file\nmpgindex\tAdobe MPEG index\nmpx\tAlpha Five temporary index file\nmsj\tMicroSurvey CAD temporary file\nmtx\tTemporary file\nmuf\tAlpha Five access control file\nmx1\tcoucoucircus.org audio temporary file\nmxdl\tMaxthon incomplete download\nnav2\tWinAVI temporary navigation file\nnb2\tNewsbin unfinished download\nnc2\tNewsLeecher cache file\nncch\tMicrosoft Interner Explorer for Mac cache file\nnmu\tEMC Documentum Client Library query cache file\nnov\tNI Battery cache\nnpk\tn-Track Studio waveform peak\nobjectcache\tCache file\noemigaccount\tOutlook Express temporary file\nonecache\tMicrosoft OneNote cache file\nonetmp\tMicrosoft OneNote temporary file\nOnlineResources\tOnline resources file\nout\tPro/ENGINEER temporary file\npar\tWindows 3.x swap file\npart\tPartial download file\npartial\tMicrosoft partially downloaded data\npat\tExtensible Storage Engine (ESE) patch file\npatchcache\tMicrosoft Windows patch cache file\npeb\tCorel WordPerfect program editor bottom overflow file\npet\tCorel WordPerfect top overflow file\npfc\tPegasus Mail message cache file\npft\tCorel WordPerfect temporary data\nphc\tPegasus Mail header cache file\npkc\tJython JAR cache file\npkf\tAdobe Audition peak file\npls\tPro/ENGINEER temporary file\npm$\tPegasus Mail temporary file\npnf\tMicrosoft Windows precompiled setup information file\npreview7\tWindowBlinds temporary file\nprmdc\tAdobe Premiere Pro metadata cache\npspcache\tCorel PaintShop Pro cache\nptn2\tPaperPort thumbnail cache\npzx\tPizazz Plus swap file\nqbi\tQuickBooks image file\nqbt\tQuicBooks temporary rebuild file\nqdat\tQuicktime Installer Cache\nqp1\tQuickPar cache file\nqp2\tQuickPar cache file\nqtindex\tAdobe QTIndex file\nqtmp\tQtracker mapshot pack\nr1m\tRealOne streaming media file\nrad\tReal Rhapsody cache file\nrcv\tEudora temporary download file\nrdn\tOpenSSL temporary file\nreapeaks\tREAPER scratch file\nref\tPro/ENGINEER temporary file\nregtrans-ms\tMicrosoft Windows registry changes temporary data\nrgt\tIntuit Quickbooks temporary data\nrld\tNorton Commander temporary\nrra\tWindows Installer temporary data\nrsc_tmp\tTemporary file\nrsx\tTemporary Red Alert camera file\ns\tNitpicker Ipflow file\ns2mi\tStarcraft 2 cache file\nsav\tFree Download Manager download data\nsave\tNano temporary saved file\nscuf\tTemporary file\nsdx\tSmart Diary Suite temporary file\nsfk\tSony audio waveform visualisation data\nsfm\tS Memo data cache\nshadowIndexCompactDirectory\tMac OS X Spotlight file\nshadowIndexGroups\tMac OS X Spotlight file\nshadowIndexTermIds\tMac OS X Spotlight file\nsimpl_int\tTemporary file\nsnapdoc\tAshampoo Snap file\nspc\tCorel WordPerfect temporary file\nsqlite-journal\tMozilla Firefox file\nsqlite3-journal\tSQLite temporary file\nsss~\tWindowBlinds temporary file\nsteamstart\tSteam Client temporary data\nstf\tMicrosoft Exchange Server temporary file\nsvn-work\tCollabNet Subversion cache file\nswd\tAdobe Flash debug file\nswn\tVim temporary data\nswo\tVim temporary file\nt$m\tAVG Internet Security temporary file\nt44\tdBASE IV temporary file\ntb0\tAdobe Photoshop file browser thumbnail cache file\ntbn\tXBMC folder thumnail cache\ntec\tSamsung phones cached image\ntemp\tTemporary file\nTemporaryItems\tMac OS X temporary data\nthumbdat\nthumbdata\tGoogle Android thumbnail database\nthumbdata3\tGoogle Android thumbnail database\nthumbdata3--1763508120\tAndroid Thumbnail index\nthumbdata3--number\tAndroid MediaProvider thumbnail database\nthumbdata3-1763508120\tAndroid thumbnail index\nthumbdata3-1967290299\tAndroid thumbnail index file\nthumbdata4\tGoogle Android thumbnail database file\nthumbdata4--1763508120\tAndroid thumbnail index file\nthumbdata4--1967290299\tAndroid thumbnail index\nthumbdata5\tGoogle Android thumbnail database\nthumbdata5--1763508120_0\tAndroid thumbnail index\nthumbdata5--1967290299_0\tAndroid thumbnail index\nthumbdata5--1967290299_1\tAndroid thumbnail index\nthumbdata5--1967290299_3\tAndroid thumbnail index\nthumbdata5--1967290299_4\tAndroid thumbnail index\nthumbdata5--1967290299_5\tAndroid thumbnail index\nthumbdata5--1967290299_7\tAndroid thumbnail index\nthumbdata5-1763508120_0\tAndroid thumbnail index file\nthumbdata5-1763508120_1\tAndroid thumbnail index\nthumbdata5-1763508120_12\tAndroid thumbnail index\nthumbdata5-1763508120_17\tAndroid thumbnail index\nthumbdata5-1763508120_19\tAndroid thumbnail index\nthumbdata5-1763508120_2\tAndroid thumbnail index\nthumbdata5-1763508120_20\tAndroid thumbnail index\nthumbdata5-1763508120_3\tAndroid thumbnail index\nthumbdata5-1763508120_4\tAndroid thumbnail index file\nthumbdata5-1763508120_5\tAndroid thumbnail index file\nthumbdata5-1763508120_6\tAndroid thumbnail index file\nthumbdata5-1763508120_7\tAndroid thumbnail index file\nthumbdata5-1763508120_8\tAndroid thumbnail index\nthumbdata5-1967290299_8\tAndroid thumbnail index\nthumbnail\tGoogle Android thumbnail cache\ntic\tTruKnox cache file\ntmd\tMySQL temporary database file\ntmp\tTemporary file\ntmt\tTemporary file\ntof\tMr. Photo temporary thumbnail file\ntombstone\tGoogle Android tombstone file\ntorchdownload\tTorch Web Browser partial download\ntst\tPro/ENGINEER temporary file\ntt2\tMicrosoft Office 2013 installation\ntv1\tCorel WordPerfect overflow file\ntv2\tCorel WordPerfect overflow file\ntv3\tCorel WordPerfect overflow file\ntv4\tCorel WordPerfect overflow file\ntv5\tCorel WordPerfect overflow data\ntv6\tCorel WordPerfect overflow file\ntv7\tCorel WordPerfect overflow file\ntv8\tCorel WordPerfect overflow file\ntv9\tCorel WordPerfect overflow file\nu96\tEasyZip temporary file\nutpart\tµTorrent unfinished download file\nvaf\tDVD2SVCD temporary file\nvdjcache\tVirtualDJ cache\nvmc\tAdobe Acrobat virtual memory file\nvmdk-converttmp\tVMware Fusion temporary file\nvsscc\tMicrosoft Visual Studio temporary file\nw44\tdBASE temporary file\nwaf\tMicrosoft Internet Explorer for Mac cache\nwa~\tMicrosoft Address Book file\nwcc\tWincam 2000 cache file\nwfm\tPro Tools wave cache\nwid\tMicrosoft SharePoint Server 2007 temporary file\nwlx\tMicrosoft Live Mesh placeholder file\nwov\tCakewalk SONAR Cache Clip\nwpk\tNero WaveEditor file\nwrk\tMicrosoft SQL Server log shipping file\nwsb\tMicrosoft SharePoint Server 2007 temporary file\nwtmp\tMicrosoft Word for Mac 5 temporary file\nwtmp\tPartial torrent download file\nxcuserstate\tXcode file\nxp\tWindowBlinds temporary file\nxps\tWindowBlinds temporary file\nxps~\tWindowBlinds temporary file\nxp~\tWindowBlinds temporary file\nxqp\tI-Doser temporary data\nytf\tGoogle Picasa font cache\nyumtx\tYUM transaction data file\nzl\tMoney S3 temporary file\nzn~\tZinio reader temporary file\nzoner-index-cache\tZoner Photo Studio index cache file\nzoner-rawdata-cache\tZoner Photo Studio raw data cache file\nzsr\tform-Z temporary save file\n~$~\t3GP/iPod/PSP/MP4 Converter temporary file\n~cr\tRecovered picture or data\n~nt\tMicrosoft Windows NT install files\n§§§\tPegasus Mail temporary file",
+			"settings":
+			{
+				"buffer_size": 11924,
+				"line_ending": "Windows",
+				"name": "!ut\tuTorrent incomplete download file"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 457,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "neatoUI.py",
+			"settings":
+			{
+				"buffer_size": 1319,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 148.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"trimmer lea",
+				"Trimmer: Trim leading whitespace."
+			],
+			[
+				"aut",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"todone",
+				"Set Syntax: ToDone"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ana",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"pyth",
+				"Anaconda: Goto Python object"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"leadin",
+				"Trimmer: Trim leading whitespace."
+			],
+			[
+				"lead",
+				"Trimmer: Trim leading whitespace."
+			],
+			[
+				"pyho",
+				"Set Syntax: Python"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"em",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"paka",
+				"Preferences: Browse Packages"
+			],
+			[
+				"snippet speed",
+				"Snippet: SpeedFan Plugin"
+			],
+			[
+				"set syn rainmeter",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"rain",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"rainmeter",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"rai",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"rainme",
+				"Rainmeter: Indent for Code Folding"
+			],
+			[
+				"s",
+				"Sort Lines"
+			],
+			[
+				"set rain",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"t",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"tri",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"trimm",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"trimmer",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"trimmer ",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"trim",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"tr",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"set syntax pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"dele",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"snippet",
+				"Snippet: Calc Measure"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"side ",
+				"Snippet: FreeDiskSpace Measure"
+			],
+			[
+				"syntax r",
+				"Set Syntax: Rainmeter"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package control install package",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 506.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import socket;socket.socket(socket.AF_INET,socket.SOCK_STREAM).connect((\"localhost\",51308))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.773/wipedicks-master/wipedicks.py",
+		"/F/Projects/neato!/Neato!v2/eventlog.bat",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/setup.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/rmove.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/temp.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/regclean.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/removeself.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/ini.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/nm.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/elevation.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/typerem.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/test.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/FG.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!v2/ui.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!v2/FG.py",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!/ui.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.196/RegClean-master/RegClean.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.309/bleachbit-master/bleachbit/Cleaner.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.136/cleanerml-master/release/paintnet.xml",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.618/bleachbit-master/bleachbit/Cleaner.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.618/bleachbit-master/bleachbit/CleanerML.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.882/WindowsTools-master/SelectiveCompression.bat",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.882/WindowsTools-master/WindowsMaintenance.bat",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa1.395/Tool_Cleanup-SystemDisk-master/CleanUp-SystemDisk",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.067/Windows-Cleaner-Tools-master/Windows_Cleaner.bat",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.351/tempy-master/tempy/scripts/filemanager.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.351/tempy-master/tempy/scripts/converter.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.351/tempy-master/tempy/scripts/config.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.351/tempy-master/tempy/scripts/cleaner.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.351/tempy-master/tempy/scripts/analyzer.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.011/tempy-master/tempy/__init__.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.011/tempy-master/tempy/app.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.659/tempy-master/tests/test_tempy.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.659/tempy-master/tests/boilerplate.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.659/tempy-master/tests/__init__.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.638/tempy-master/setup.py",
+		"/C/Users/Betrant Titus/AppData/Local/Temp/Rar$DIa0.478/README.md",
+		"/C/Users/Betrant Titus/AppData/Local/Temp/Rar$DIa0.829/README.md",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.553/Tempinator-master/setup.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.553/Tempinator-master/README.md",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.796/SystemOptimiser-master/Run-SystemOptimisation.ps1",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.967/EventLog_Cleaner-master/event_log_cleaner.bat",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.050/EventLog_Cleaner-master/README.txt",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.357/dewin10-master/sux/fwsux.ps1",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.776/dewin10-master/sux/winsux.reg",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.471/dewin10-master/fix/registerStore.ps1",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.395/dewin10-master/desux/windesux.reg",
+		"/C/Users/Betrant Titus/PyCharmProjects/Neato!v2/neatoTypeCleanerpy.py",
+		"/C/Users/Betrant Titus/AppData/Local/Temp/Rar$DIa0.841/README.md",
+		"/C/Users/Betrant Titus/AppData/Local/Temp/Rar$DIa0.514/README.md",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.770/ci_windows_cleanup-master/README.markdown",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.963/Cleaner-master/Cleaner.bat",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.765/Clean-Cache-Script-master/ccache20.bat",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.434/pyWipe-master/diskWipe.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.434/pyWipe-master/zeroOutDisk.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.434/pyWipe-master/README.md",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.434/pyWipe-master/pyWipe.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.434/pyWipe-master/osCheck.py",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.686/bad-stuff-remover-master/bad-stuff-remove-nt6.ps1",
+		"/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.152/bad-stuff-remover-master/README.md",
+		"/C/Users/Betrant Titus/AppData/Local/Temp/Rar$DIa0.885/FirefoxCleaner_Linux.sln",
+		"/C/Program Files/Mixxx/keyboard/en_US.kbd.cfg",
+		"/C/Users/Betrant Titus/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/bbZero/styles/minev2/noesc.style",
+		"/C/bbZero/plugins/BlackboxBar/BlackboxBar.rc",
+		"/C/bbZero/styles/minev2/NEWv2",
+		"/C/bbZero/styles/minev2/nu",
+		"/C/bbZero/styles/minev2/nutwo",
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/NEXA RS/Music Control/music.ini",
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/Metro UI/Meters/Volume/Volume.ini",
+		"/C/bbZero/plugins/bbLeanSkin/exclusions.rc",
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/Origami/Settings/Settings.ini",
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/Origami/@Resources/Apps.inc",
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/Origami/Dock/Dock.ini",
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/Chleon Player/NowPlaying.ini",
+		"/C/bbZero/plugins/SystemBarEx/systembarex.rc",
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/NEXA RS/nexa.sublime-project",
+		"/C/Users/Betrant Titus/Desktop/NE-RS GOM/list.xml",
+		"/C/Users/Betrant Titus/Desktop/NE-RS GOM/skin.xml",
+		"/C/Program Files (x86)/GRETECH/GomPlayer/skins/NE-RS GOM/skin.xml",
+		"/C/Program Files (x86)/GRETECH/GomPlayer/skins/NE-RS GOM/list.xml",
+		"/E/other/STUFF/other/ttd",
+		"/C/STUFF/tst/skin/default.kds",
+		"/C/STUFF/tst/Chocolate_240x320/Chocolate.kds",
+		"/C/Program Files/MacType/ini/Decency.modified.English.ini",
+		"/C/STUFF/tst/kdplayer/240x320/iPodv4.0.kds",
+		"/C/STUFF/tst/kdplayer/Chocolate.kds",
+		"/J/Chocolate_240x320/Chocolate.kds",
+		"/C/Program Files (x86)/iBall 3.5G Wireless Modem 3.1/Driver/Win8_64/cmnsusbser.cat",
+		"/C/Program Files (x86)/iBall 3.5G Wireless Modem 3.1/Driver/Win8_64/cmnsser.inf",
+		"/C/Users/Betrant Titus/AppData/Local/Temp/Rar$DIa0.558/foo_lyricsource.sln",
+		"/C/Program Files (x86)/iBall 3.5G Wireless Modem 3.1/Data/StringResource.db",
+		"/C/Program Files (x86)/iBall 3.5G Wireless Modem 3.1/Driver/Win8_64/cmnsmdm.inf",
+		"/C/STUFF/govtunr/mygovtuner/system/bin/lionheart.sh",
+		"/C/STUFF/govtunr/mygovtuner/system/bin/pegasusq.sh",
+		"/C/STUFF/govtunr/mygovtuner/system/bin/interactive.sh",
+		"/C/STUFF/govtunr/mygovtuner/system/bin/conservativex.sh",
+		"/C/STUFF/govtunr/mygovtuner/META-INF/com/google/android/update-binary",
+		"/C/STUFF/govtunr/mygovtuner/system/bin/barry_allen.sh",
+		"/C/Users/Betrant Titus/AppData/Roaming/Rainmeter/Rainmeter.ini",
+		"/C/bbZero/programs.forget",
+		"/C/bbZero/programs.index",
+		"/C/bbZero/programs.props",
+		"/C/bbZero/search.rc",
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/NEXA RS/Skis/Skis.ini",
+		"/C/Users/Betrant Titus/Documents/Rainmeter/Skins/NEXA RS/uservariables.inc",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/System Monitoring/full monitor.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Branding/rplusl.ini",
+		"/D/nfsmw/ADDONS/CARS_REPLACE/SURFCREALM/ATTRIBUTES.MWPS",
+		"/D/nfsmw/ADDONS/CARS_REPLACE/LIGHTING/ATTRIBUTES.MWPS",
+		"/C/Users/Betrant Titus/AppData/Local/Temp/Rar$DIa0.222/ATTRIBUTES.MWPS",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/ForceX/ForceX System Monitor 3/RAM/RAM.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA RS/Modded Steam Wheel/Steam Wheel.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Cdrom/OpCl.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/TextItems/#Win8Sidebar/Addons/User/User.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/Panels/Ccleaner/Ccleaner.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/WP7/Panels/Power/Power.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA RS/Music Control/music.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA RS/Time and Date/newtime.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/PULSE/@Resources/variables.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA RS/Greeting/greeting.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA RS/Aeo+/Aeo+.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA RS/Skis/Skis.ini",
+		"/C/Users/Titus/AppData/Roaming/Rainmeter/Layouts/Circle Launcher Default/Rainmeter.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/PULSE/visualizer.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/TESTGREETING/greeting.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/NEXA/Greeting/greeting.ini",
+		"/C/Users/Titus/Documents/Rainmeter/Skins/Monstercat Visualizer/visualizer.ini"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"extension",
+			"\"",
+			"scan",
+			"*",
+			", recursive=True",
+			"\\",
+			"delpath",
+			"pathfinal",
+			"glob",
+			"\\",
+			"enter",
+			"FontColor",
+			"Mse_Drive1Access",
+			"tempplc",
+			"LeftMouseUpAction=!Refresh\n",
+			"ImageName=plc.png\n",
+			"Fontcolor=255, 255, 255, 200",
+			"StringStyle=Bold",
+			"FontSize=16",
+			"ImageAlpha=180",
+			"ImageAlpha=160",
+			"ImageAlpha=100",
+			"H=40",
+			"W=40",
+			"NewMedia",
+			"newmedia",
+			"WindowY=900",
+			"Windowy=",
+			"WindowX=",
+			"windowx=",
+			"**",
+			"*",
+			"FileKey",
+			"%ProgramFiles%",
+			"FileKey",
+			"|*.*|RECURSE",
+			"RECURSE",
+			"\\\\",
+			"\\",
+			"%AppData%",
+			"|*.*|",
+			"=",
+			"FileKey",
+			"REMOVESELF",
+			"REmoveself",
+			"Filekey",
+			"Detect",
+			"Langsecref",
+			"Filekey",
+			"=",
+			"RegKey",
+			"\\\\",
+			"*.log",
+			"=",
+			"RegKey",
+			"*",
+			"\\",
+			"|*.*|REMOVESELF",
+			"REMOVESELF",
+			"=",
+			"FileKey",
+			"Exclude",
+			"RegKey",
+			"Warning",
+			"Section",
+			"Detect",
+			"Detect*",
+			"[",
+			"Detect=",
+			"Detect=*",
+			"Default=False",
+			"LangSecRef=",
+			"delete",
+			"REMOVESELF",
+			"group",
+			"FontColor=255, 255, 255, 200",
+			"FontColor=0,0,0,180",
+			"FontColor=0,0,0,150",
+			"FontColor=255, 255, 255, 80",
+			"FontFace=04b_19",
+			"mPlayer",
+			"(71/100)",
+			"W=((#WORKAREAWIDTH#-#XfromLeft#-#XfromRight#)/100)",
+			"W=(ROUND((#WORKAREAWIDTH#-#XfromLeft#-#XfromRight#)/100))",
+			"mPlayer",
+			"mplayer",
+			"W=((#WORKAREAWIDTH#-#XfromLeft#-#XfromRight#)/100)",
+			"W=(ROUND((#WORKAREAWIDTH#-#XfromLeft#-#XfromRight#)/100))",
+			"H=8",
+			"Hidden=0\nGroup=MUSICTAB",
+			"Hidden=0",
+			"Group=MUSICTAB",
+			"#WORKAREAWIDTH#",
+			"ImageAlpha=100",
+			"#ROOTCONFIGPATH#",
+			"#SmallIconSize#",
+			"#MediumIconSize#",
+			"drive",
+			"hd",
+			"#BigIconSize#",
+			"FontFace=#FontFace#",
+			"FontFace=",
+			"[#SKINSPATH#Steam Wheel\\sounds\\applaunch.wav]",
+			"metertitle",
+			"Valuecolor",
+			"meterline",
+			"Y=51",
+			"Y=46",
+			"Y=54",
+			"Y=68",
+			"Y=44",
+			"Hidden=0",
+			"Hidden=1",
+			"#Style#",
+			"[PLAY Skins\\Steam Wheel\\sounds\\applaunch.wav]",
+			"Y=6\nW=21\nH=24",
+			"X=39\nY=11",
+			"#FontName#",
+			"#LocalFontFace#"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"**",
+			"\\\\",
+			"parentpath",
+			"path",
+			"\\\\",
+			"morehldr",
+			"MouseOverAction=",
+			"ImageName=plc.png\nImageAlpha=1",
+			"Fontcolor=255, 255, 255, 255",
+			"StringStyle=Normal",
+			"FontSize=12",
+			"ImageAlpha=200",
+			"ImageAlpha=180",
+			"ImageAlpha=160",
+			"H=20",
+			"W=20",
+			"visitor tt1 brk",
+			"WindowY=96",
+			"WindowY=16",
+			"WindowY=743",
+			"WindowY=663",
+			"WindowY=582",
+			"WindowY=501",
+			"WindowY=420",
+			"WindowY=339",
+			"WindowY=258",
+			"WindowY=177",
+			"WindowY=96",
+			"WindowY=16",
+			"*",
+			"**",
+			"\\",
+			"\\\\",
+			"FontColor=0,0,0,160",
+			"FontColor=0,0,0,180",
+			"FontColor=0,0,0,150",
+			"FontFace=NewMedia",
+			"mTitle",
+			"(710/100)",
+			"W=(71/100)",
+			"W=(ROUND(71/100))",
+			"mTitle",
+			"W=(71/100)",
+			"W=(ROUND(71/100))",
+			"H=2",
+			"770",
+			"ImageAlpha=180",
+			"20",
+			"26",
+			"42",
+			"[#SKINSPATH#NEXA\\Modded Steam Wheel\\sounds\\applaunch.wav]",
+			"FontColor",
+			"Y=53",
+			"Y=51",
+			"Y=60",
+			"Y=46",
+			"Y=54",
+			"Hidden=1",
+			"Hidden=0",
+			"NEXA",
+			"[#SKINSPATH#Steam Wheel\\sounds\\applaunch.wav]",
+			"Y=6\nW=1\nH=11",
+			"X=25\nY=6",
+			"NewMedia",
+			"#FontName#"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 19,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.715/ci_windows_cleanup-master/manifests/init.pp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1849,
+								1849
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"auto_name": "walk.files is globbing with multiple folders and f",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Betrant Titus/PyCharmProjects/Neato!/removewglob.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								886,
+								886
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1430.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "neatoChromeCleaner.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "neatoEngine.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								806,
+								806
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										805,
+										806
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										778,
+										779
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 384.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "neatoWinTemp.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								800,
+								800
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										800,
+										801
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										795,
+										796
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 186.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "neatoDesktop.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5352,
+								5352
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										5352,
+										5353
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										5337,
+										5338
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "neatoEventLogCleaner.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										241,
+										242
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										238,
+										239
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								743,
+								743
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 77.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ToDone/ToDone.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.274/windows-cleaning-scripts-master/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.274/windows-cleaning-scripts-master/wartung.cmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 988.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Users/BETRAN~1/AppData/Local/Temp/Rar$DRa0.274/windows-cleaning-scripts-master/reinigung.cmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "neatoElevation.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "neatoOperaCleaner.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										308,
+										309
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										252,
+										253
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "neatoTypeCleaner.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2146,
+								2146
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#$# - ULead Photoimpact temporary file",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"auto_name": "!ut\tuTorrent incomplete download file",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								17
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "neatoUI.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Tomorrow.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 347.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "neatov2.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
